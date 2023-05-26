@@ -48,7 +48,8 @@ Encore une fois, tu regardes [la vidéo d'il y a 8 ans de Grafikart][grafikart-j
     3. Le synchroniser dans mon dossier de code. En gros, un bon vieux `git init`, ça serait allé plus vite je crois. Je te l'aisse faire comme tu le souhaites.
 3. Avec le terminal, aller dans le dossier du dépôt et créer le site
     1. `jekyll new .\ --force` - le "--force", c'est parce que je suis un bourrin, que Jekyll veut un dossier complètement vide, mais il y avait un .gitignore et un README.md...
-    2. Il n'y a plus qu'à commit. GitHub reconnaît Jekyll et va le compiler comme un grand. T'attends un peu et le site est en ligne à l'adresse `sedomu.github.io`
+    2. Il n'y a plus qu'à commit.
+    3. Vérifier que tout est bien comme ils disent pour [GitHub pages][github-pages]{:target="_blank"}, GitHub reconnaît Jekyll et va le compiler comme un grand. T'attends un peu et le site est en ligne à l'adresse `sedomu.github.io`
 
 #### Pimper le site:
 1. Aller voir dans `_config.yml` et changer les trucs utiles (titre, adresse mail, description, etc.)
@@ -61,5 +62,6 @@ Alors, en effet, je susi allé dans certains détails, mais pas d'autres (foncti
 
 [grafikart-jekyll]: https://grafikart.fr/tutoriels/jekyll-505
 [jekyll-quickstart]: https://jekyllrb.com/docs/
-[rubyinstaller-home]: (https://rubyinstaller.org/)
+[rubyinstaller-home]: https://rubyinstaller.org/
+[github-pages]: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source
 [yo-helloworld]:{% post_url 2023-05-25-hello-world %}
