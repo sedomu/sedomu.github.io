@@ -2,6 +2,7 @@
 layout: post
 title:  "Comment créer un site sur GitHub avec Jekyll"
 date:   2023-05-26 19:35:00 +0200
+last_modified_at: 2023-07-26 19:07:00 +0200
 #categories: jekyll update
 author: 'sedomu'
 ---
@@ -37,6 +38,7 @@ Encore une fois, tu regardes [la vidéo d'il y a 8 ans de Grafikart][grafikart-j
 ### Ce que j'ai fait
 
 #### Créer le site:
+_L'étape 1. décrit l'installation sous Windows de Jekyll. L'installation sous MacOS est décrite dans [ce post][yo-jekyll_macos]._
 1. Aller voir la doc de [Jekyll][jekyll-quickstart]{:target="_blank"} et tout faire comme ils disent, pour installer Ruby et Jekyll. Dans l'ordre:
     1. Installer [RubyInstaller][rubyinstaller-home]{:target="_blank"}, avec toutes les options par défaut
     2. A la dernière étape de l'installation, cocher l'exécution de `ridk install`
@@ -58,10 +60,11 @@ Encore une fois, tu regardes [la vidéo d'il y a 8 ans de Grafikart][grafikart-j
 4. Créer une page pour tester tout ça : forcément, un "[hello world!][yo-helloworld]{:target="_blank"}".
 5. Quand t'es content, tu commit, t'attends un peu que ça se build, et tu admires le résultat.
 
-Alors, en effet, je susi allé dans certains détails, mais pas d'autres (fonctionnement de GitHub), mais après tout, c'est mon premier article. Je reste content d'avoir écrit quelque chose et de le publier.
+Alors, en effet, je suis allé dans certains détails, mais pas d'autres (fonctionnement de GitHub), mais après tout, c'est mon premier article. Je reste content d'avoir écrit quelque chose et de le publier.
 
 [grafikart-jekyll]: https://grafikart.fr/tutoriels/jekyll-505
 [jekyll-quickstart]: https://jekyllrb.com/docs/
 [rubyinstaller-home]: https://rubyinstaller.org/
 [github-pages]: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source
 [yo-helloworld]:{% post_url 2023-05-25-hello-world %}
+[yo-jekyll_macos]:{% post_url 2023-07-26-installer-jekyll-sur-macos %}
