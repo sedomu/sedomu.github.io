@@ -20,5 +20,8 @@ You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
+Inspiration for adding a modification date on posts:
+[Tom Kadwill, Adding last modified date to Jekyll, visited on 2023-07-26](https://tomkadwill.com/adding-last-modified-date-to-jekyll)
+
 
 [jekyll-organization]: https://github.com/jekyll
