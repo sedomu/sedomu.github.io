@@ -2,7 +2,7 @@
 layout: post
 title:  "Anaconda m'énerve"
 date:   2023-11-04 21:30:00 +0100
-last_modified_at:
+last_modified_at: 2023-11-05 10:30:00 +0100
 #categories: python venv
 author: 'sedomu'
 ---
